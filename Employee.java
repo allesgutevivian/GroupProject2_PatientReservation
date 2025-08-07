@@ -15,6 +15,9 @@ public class Employee {
 		this.role = role;
 	}
 
+	public Employee() {
+	}
+		
 	public String getName() {
         return name;
     }
@@ -49,6 +52,6 @@ public class Employee {
 
 	@Override
     public String toString() {
-    	return "Employee name="+name + ", username= " +username + ", password= "+password+ ", rold= "+role;
+    	return "Employee name="+name + ", username= " +username + ", password= "+password+ ", role= "+role;
     }
 }
