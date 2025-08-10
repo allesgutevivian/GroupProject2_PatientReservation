@@ -1,4 +1,4 @@
-package dentalCareProject;
+package GroupProject2_Reservation;
 
 
 import java.time.LocalDateTime;
@@ -209,3 +209,4 @@ public class Main {
 	}
 
 }
+
