@@ -1,4 +1,4 @@
-package PatientProgram;
+package GroupProject2_Reservation;
 
 import java.time.LocalDateTime;
 
