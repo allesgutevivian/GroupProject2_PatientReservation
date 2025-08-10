@@ -3,7 +3,7 @@ package GroupProject2_Reservation;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-public class DateLabelFormatter {
+public class DateLabelFormatter extends AbstractFormatter {
 
 	String datePattern;
 	SimpleDateFormat dateFormatter;
