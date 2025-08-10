@@ -19,6 +19,9 @@ public class Calender {
 		this.empList = empList;
 	}
 
+	public Calender() {
+	}
+
 	
 	// Getters
 	public List<Appointment> getAppList() {
@@ -91,4 +94,5 @@ public class Calender {
 	
 	
 }
+
 
