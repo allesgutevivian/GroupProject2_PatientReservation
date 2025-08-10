@@ -1,4 +1,4 @@
-package PatientProgram;
+package GroupProject2_Reservation;
 
 public class Employee {
     private String name;
